@@ -80,6 +80,7 @@ public class EnemyFactory
     }
 }
 
+
 class Program
 {
     static void Main()
